@@ -1,0 +1,10 @@
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\bin\Debug\ListView Demo.exe.config
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\bin\Debug\ListView Demo.exe
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\bin\Debug\ListView Demo.pdb
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView Demo.csproj.AssemblyReference.cache
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView_Demo.lvlDemo.resources
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView_Demo.Properties.Resources.resources
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView Demo.csproj.GenerateResource.cache
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView Demo.csproj.CoreCompileInputs.cache
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView Demo.exe
+C:\Users\tuana\source\repos\ListView Demo\ListView Demo\obj\Debug\ListView Demo.pdb
